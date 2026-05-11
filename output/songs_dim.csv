@@ -1,0 +1,540 @@
+song_slug,song,total_plays,debut_date,last_played,most_common_set,avg_set_position,segue_pct
+helicopters,Helicopters,482,1998-08-28,2025-12-31,S1,4.0,0.0
+basis-for-a-day,Basis For A Day,465,1995-11-09,2025-09-07,S2,5.0,0.0
+i-man,I-Man,461,1997-04-19,2026-02-08,S1,4.1,0.0
+morph-dusseldorf,Morph Dusseldorf,423,1996-09-12,2025-08-27,S1,4.1,0.0
+little-shimmy-in-a-conga-line,Little Shimmy In A Conga Line,383,1998-02-26,2025-12-21,S1,3.6,0.0
+above-the-waves,Above The Waves,354,1998-12-29,2026-02-07,S2,3.8,0.0
+mindless-dribble,Mindless Dribble,351,1998-02-19,2025-12-31,S2,3.6,0.0
+run-like-hell,Run Like Hell,350,1995-04-01,2025-08-22,S1,4.1,0.0
+aceetobee,Aceetobee,341,1995-11-09,2025-11-19,S1,4.2,0.0
+shem-rah-boo,Shem-Rah Boo,335,1997-01-17,2025-09-07,S1,3.7,0.0
+confrontation,Confrontation,331,2000-08-26,2025-12-30,S1,4.1,0.0
+m-e-m-p-h-i-s,M.E.M.P.H.I.S.,322,1997-11-20,2025-11-19,S1,3.2,0.0
+crickets,Crickets,312,2000-04-15,2025-12-27,S2,3.7,0.0
+munchkin-invasion,Munchkin Invasion,304,2000-04-29,2025-12-27,S2,3.8,0.0
+bernstein-and-chasnoff,Bernstein and Chasnoff,280,1996-07-04,2025-06-22,S1,4.3,0.0
+spacebirdmatingcall,Spacebirdmatingcall,280,2001-03-17,2025-12-27,S1,4.0,0.0
+and-the-ladies-were-the-rest-of-the-night,And the Ladies Were the Rest of the Night,279,2000-12-30,2025-08-21,S2,3.9,0.0
+digital-buddha,Digital Buddha,267,2002-09-26,2025-12-28,S1,3.8,0.0
+story-of-the-world,Story of the World,266,2000-03-11,2025-12-30,S1,3.8,0.0
+astronaut,Astronaut,263,2001-08-08,2025-12-27,S1,3.9,0.0
+magellan,Magellan,261,1998-04-22,2026-02-07,S1,3.8,0.0
+caterpillar,Caterpillar,255,2003-10-23,2025-12-28,S1,3.6,0.0
+mr-don,Mr. Don,253,1995-12-01,2025-12-30,S1,4.1,0.0
+vassillios,Vassillios,249,1996-12-14,2025-09-05,S1,3.6,0.0
+little-betty-boop,Little Betty Boop,248,1997-07-05,2025-06-25,S1,3.9,0.0
+svenghali,Svenghali,243,1999-09-08,2025-12-20,S1,3.7,0.0
+rock-candy,Rock Candy,243,2002-07-25,2025-12-31,S1,3.9,0.0
+nughuffer,Nughuffer,240,1995-04-01,2025-11-22,S1,4.4,0.0
+voices-insane,Voices Insane,238,1998-10-21,2025-12-31,S1,3.5,0.0
+house-dog-party-favor,House Dog Party Favor,232,1999-08-11,2026-02-08,S2,3.6,0.0
+jigsaw-earth,Jigsaw Earth,230,1999-10-07,2025-12-27,S1,3.8,0.0
+save-the-robots,Save The Robots,227,2001-03-27,2025-08-21,S2,3.8,0.0
+hot-air-balloon,Hot Air Balloon,225,1998-12-31,2026-02-08,S1,4.2,0.0
+reactor,Reactor,219,2001-08-26,2025-12-18,S2,4.1,0.0
+pygmy-twylyte,Pygmy Twylyte,215,1995-09-16,2023-07-12,S1,3.7,0.0
+the-very-moon,The Very Moon,215,1998-12-09,2025-09-03,S1,3.2,0.0
+42,42,214,2003-04-05,2025-11-21,S1,4.2,0.0
+spaga,Spaga,206,1999-05-27,2025-06-25,S2,3.7,0.0
+shelby-rose,Shelby Rose,204,2000-08-25,2026-02-07,S1,4.0,0.0
+spraypaint,Spraypaint,203,2002-07-27,2025-11-22,S2,4.2,0.0
+mulberry-s-dream,Mulberry's Dream,199,1998-07-02,2025-12-21,S1,3.5,0.0
+little-lai,Little Lai,199,1999-04-21,2025-08-31,S1,3.5,0.0
+the-overture,The Overture,188,1998-09-09,2025-12-30,S1,3.1,0.0
+7-11,7-11,184,2000-03-11,2025-08-20,S1,3.1,0.0
+cyclone,Cyclone,176,2005-12-29,2025-12-31,S1,4.0,0.0
+home-again,Home Again,167,2000-08-26,2025-11-20,S1,3.4,0.0
+the-great-abyss,The Great Abyss,161,2006-02-04,2025-11-20,S2,3.9,0.0
+stone,Stone,160,1996-03-02,2021-06-26,S1,4.1,0.0
+hope,Hope,151,2000-08-25,2026-02-08,S1,2.9,0.0
+orch-theme,Orch Theme,150,2006-12-31,2025-12-27,S2,4.2,0.0
+barfly,Barfly,147,1995-11-09,2024-12-27,S1,4.2,0.0
+the-devil-s-waltz,The Devil's Waltz,146,1996-07-05,2021-06-26,S1,4.8,0.0
+plan-b,Plan B,144,1998-10-16,2025-01-25,S1,2.7,0.0
+frog-legs,Frog Legs,140,1995-12-01,2025-09-03,S1,3.8,0.0
+jam,Jam,140,1996-02-13,2024-11-14,S1,1.7,0.0
+wet,Wet,136,1998-02-21,2024-03-14,S1,4.0,0.0
+king-of-the-world,King of the World,133,2001-11-17,2025-12-31,S1,2.9,0.0
+jamillia,Jamillia,132,1997-02-28,2016-07-15,S1,4.8,0.0
+down-to-the-bottom,Down To The Bottom,128,1995-04-01,2024-11-08,S1,4.3,0.0
+once-the-fiddler-paid,Once The Fiddler Paid,128,1998-08-28,2025-12-20,S1,2.9,0.0
+pilin-it-high,Pilin' It High,126,1999-08-11,2025-08-19,S1,3.9,0.0
+bazaar-escape,Bazaar Escape,125,1998-11-14,2025-09-07,S1,3.5,0.0
+triumph,Triumph,123,2000-12-28,2024-11-20,S1,3.1,0.0
+floes,Floes,116,2000-03-11,2024-12-31,S1,4.0,0.0
+kamaole-sands,Kamaole Sands,112,2000-10-07,2025-09-06,S1,4.4,0.0
+spectacle,Spectacle,112,2001-03-30,2025-08-30,S1,3.4,0.0
+trooper-mccue,Trooper McCue,110,1996-05-18,2023-07-21,S1,5.1,0.0
+abraxas,Abraxas,110,2006-04-14,2025-12-30,S1,3.7,0.0
+pat-and-dex,Pat And Dex,108,1995-11-09,2024-04-11,S1,4.1,0.0
+sound-one,Sound One,107,2001-08-25,2025-12-27,S1,3.8,0.0
+crystal-ball,Crystal Ball,106,2000-04-15,2025-07-10,S1,3.5,0.0
+floodlights,Floodlights,105,2000-10-11,2024-09-08,S1,3.3,0.0
+strobelights-and-martinis,Strobelights and Martinis,104,2007-02-16,2025-07-06,S1,2.9,0.0
+highwire,Highwire,102,2001-03-22,2025-06-25,E1,2.6,0.0
+grass-is-green,Grass Is Green,101,2000-10-06,2025-08-27,S1,3.9,0.0
+aquatic-ape,Aquatic Ape,97,1995-09-16,2025-07-11,S1,4.2,0.0
+humuhumunukunukuapua-a,Humuhumunukunukuapua'a,93,2000-08-26,2025-01-19,S1,3.6,0.0
+tricycle,Tricycle,93,2000-11-18,2025-11-21,S1,4.0,0.0
+radiator,Radiator,90,1995-12-10,2018-12-08,S1,4.9,0.0
+spy,Spy,87,2001-03-31,2024-07-15,S1,3.7,0.0
+kitchen-mitts,Kitchen Mitts,86,2002-07-26,2025-08-24,S1,2.9,0.0
+lunar-pursuit,Lunar Pursuit,86,2007-05-16,2025-11-20,S1,4.0,0.0
+rainbow-song,Rainbow Song,82,1995-12-11,2025-07-10,S1,3.9,0.0
+i-remember-when,I Remember When,82,2002-06-22,2025-08-31,S1,3.6,0.0
+gangster,Gangster,78,2002-12-29,2024-07-14,S1,4.0,0.0
+awol-s-blues,Awol's Blues,77,1997-02-28,2023-09-21,S1,4.1,0.0
+tempest,Tempest,77,2005-12-29,2025-08-22,S2,4.4,0.0
+safety-dance,Safety Dance,72,2003-09-27,2025-07-02,S1,3.2,0.0
+we-like-to-party,We Like To Party,72,2010-10-25,2025-12-31,S1,2.9,0.0
+portal-to-an-empty-head,Portal To An Empty Head,68,2009-12-26,2025-12-18,S1,3.2,0.0
+twisted-in-the-road,Twisted in the Road,67,2022-06-18,2025-12-28,S1,3.6,0.0
+to-be-continued,To Be Continued,67,2022-11-12,2026-02-07,S2,4.1,0.0
+the-tunnel,The Tunnel,65,2001-06-27,2025-06-24,S1,3.8,0.0
+rockafella,Rockafella,65,2007-02-15,2025-09-03,S1,2.7,0.0
+chemical-warfare-brigade,Chemical Warfare Brigade,64,1999-08-21,2022-03-31,S2,3.6,0.0
+sister-judys-soul-shack,Sister Judy's Soul Shack,62,2001-11-17,2025-01-29,S1,4.0,0.0
+catalyst,Catalyst,62,2009-11-22,2025-12-19,S1,3.9,0.0
+air-song,Air Song,61,2007-02-15,2024-11-17,S1,4.0,0.0
+my-lady-survives,My Lady Survives,60,1996-12-27,2011-12-31,S1,4.6,0.0
+bombs,Bombs,60,2010-07-16,2025-12-30,S1,3.6,0.0
+caves-of-the-east,Caves of the East,59,2008-02-29,2025-12-30,S1,3.0,0.0
+world-is-spinning,World Is Spinning,58,2003-04-07,2025-12-30,S1,2.8,0.0
+minions,Minions,56,2007-02-15,2025-12-19,S1,3.8,0.0
+another-plan-of-attack,Another Plan of Attack,56,2022-06-09,2025-12-29,S1,3.7,0.0
+on-time,On Time,55,2009-10-10,2022-12-30,S1,3.2,0.0
+mirrors,Mirrors,53,2009-03-05,2025-12-30,S2,2.9,0.0
+texas-pussy,Texas Pussy,51,1995-12-31,2005-03-26,S1,3.5,0.0
+therapy,Therapy,51,2003-09-27,2025-02-02,S1,3.1,0.0
+uber-glue,Uber Glue,51,2008-12-11,2025-06-27,S1,1.9,0.0
+pimp-blue-rikki,Pimp Blue Rikki,51,2009-09-11,2025-11-21,S1,2.8,0.0
+freeze,Freeze,51,2022-06-04,2025-12-21,S1,3.5,0.0
+eulogy,Eulogy,50,1998-12-30,2018-12-31,S1,3.1,0.0
+sweating-bullets,Sweating Bullets,50,2003-12-31,2023-04-01,S1,3.7,0.0
+rivers,Rivers,50,2008-12-26,2026-02-08,S1,2.2,0.0
+wormhole,The Wormhole,50,2022-08-14,2025-12-29,S1,3.1,0.0
+who-s-in-charge,Who's in Charge,48,2022-06-10,2025-11-19,S1,3.4,0.0
+the-deal,The Deal,48,2022-12-30,2025-12-28,S2,3.1,0.0
+three-wishes,Three Wishes,46,1998-12-03,2017-06-02,S1,3.5,0.0
+running,Running Into the Night,45,2019-12-27,2025-12-19,S1,3.1,0.0
+ring-the-doorbell-twice,Ring the Doorbell Twice,45,2023-12-30,2025-12-31,S2,4.0,0.0
+tourists-rocket-ship,Tourists (Rocket Ship),44,2022-06-12,2025-12-27,S2,3.1,0.0
+boogie-stop-shuffle,Boogie Stop Shuffle,42,1997-02-22,2003-10-24,S2,3.3,0.0
+the-city,The City,42,2008-03-19,2019-11-16,S1,3.7,0.0
+miracles,Miracles,42,2017-06-01,2025-12-18,S1,3.3,0.0
+mary-had-a-little-lamb,Mary Had A Little Lamb,41,1995-04-01,2014-02-20,S1,3.6,0.0
+naeba,Naeba,40,2009-11-21,2025-02-04,S1,3.4,0.0
+anthem,Anthem,40,2019-11-14,2023-06-08,S2,4.0,0.0
+the-thieving-magpie,The Thieving Magpie,37,1999-04-09,2014-12-31,S1,4.2,0.0
+a-chance-to-save-the-world,One Chance To Save The World,37,2022-06-19,2025-12-28,S2,3.5,0.0
+dino-baby,Dino Baby,37,2023-12-28,2026-02-08,S1,3.7,0.0
+boom-shanker,Boom Shanker,36,2006-08-26,2025-01-23,S1,3.7,0.0
+feeling-twisted,Feeling Twisted,36,2010-08-26,2025-12-21,S1,2.9,0.0
+shocked,Shocked,36,2022-08-26,2025-12-29,S1,3.4,0.0
+trucker-s-choice,Trucker's Choice,35,2002-08-02,2021-10-17,S1,3.5,0.0
+tractorbeam-jam,Tractorbeam Jam,35,2019-11-14,2021-12-30,S2,3.9,0.0
+m1,M1,35,2021-08-20,2025-01-30,S2,3.7,0.0
+fire-will-exchange,Fire Will Exchange,35,2023-12-31,2025-12-30,S2,3.7,0.0
+south-of-the-border-pussy,South Of The Border Pussy,34,1996-03-02,1998-06-08,S1,6.1,0.0
+smoothie-king,Smoothie King,34,1998-10-16,2002-04-18,S1,3.4,0.0
+resurrection,Resurrection,34,2003-04-04,2023-07-09,S1,2.7,0.0
+photograph,Photograph,34,2023-06-17,2025-09-06,S1,3.9,0.0
+news-from-nowhere,News From Nowhere,33,1997-07-10,2009-07-18,S1,3.5,0.0
+park-ave,Park Ave,33,2009-05-30,2025-08-20,S1,3.1,0.0
+neck-romancer,Neck Romancer,33,2010-08-29,2025-12-31,S1,3.4,0.0
+why-we-dance,Why We Dance,32,2022-10-30,2025-08-30,S1,3.2,0.0
+dance-of-the-sugarplum-fairies,Dance Of The Sugarplum Fairies,31,1996-12-27,2024-12-30,S1,4.8,0.0
+onamae-wa,Onamae Wa,31,2003-12-29,2019-07-20,S1,4.1,0.0
+the-champions,The Champions,31,2016-08-19,2025-08-31,S1,3.7,0.0
+soul-sacrifice,Soul Sacrifice,30,1995-12-01,1998-10-22,S1,6.8,0.0
+haleakala-crater,Haleakala Crater,30,1999-08-11,2019-05-25,S1,3.8,0.0
+shadow,Shadow,29,2007-02-15,2025-12-31,S1,3.7,0.0
+papercut,Papercut,29,2007-08-18,2018-12-12,S1,2.6,0.0
+no-recollection,No Recollection,29,2024-01-26,2026-02-07,S1,3.7,0.0
+afro-blue,Afro Blue,28,1995-12-09,2019-04-26,S1,4.3,0.0
+evolve,Evolve,28,2021-07-10,2024-09-05,S2,4.0,0.0
+space-train,Space Train,28,2022-06-11,2025-06-26,S1,3.5,0.0
+times-square,Times Square,28,2022-08-19,2025-08-27,S1,2.8,0.0
+country-royale,Country Royale,28,2024-08-29,2025-12-20,S1,3.1,0.0
+blue-monk,Blue Monk,27,1996-02-13,1999-05-04,S1,4.3,0.0
+liquid-handcuffs,Liquid Handcuffs,27,2005-12-28,2025-07-13,S1,4.2,0.0
+buy-the-time,Buy The Time,27,2023-06-08,2025-12-19,S2,3.1,0.0
+tamarin-alley,Tamarin Alley,26,2008-10-25,2025-08-24,S2,3.2,0.0
+you-and-i,You and I,25,2009-06-28,2025-08-30,S1,4.5,0.0
+falling,Falling,25,2023-05-21,2025-12-19,S2,3.7,0.0
+widow-in-the-rain,Widow In The Rain,24,2000-04-21,2024-12-27,S2,4.1,0.0
+sabre-dance,Sabre Dance,24,2003-08-07,2024-04-12,S1,4.7,0.0
+lake-shore-drive,Lake Shore Drive,24,2021-08-20,2025-06-25,S2,3.5,0.0
+the-bridge,The Bridge,23,2010-05-28,2025-06-25,S1,3.0,0.0
+magellan-reprise,Magellan Reprise,22,1999-02-25,2019-01-25,E1,3.5,0.0
+iquest-donde,¿Donde?,22,2009-09-12,2021-04-03,S1,2.7,0.0
+trap-door,Trap Door,22,2024-07-06,2025-12-27,S2,3.5,0.0
+a-night-in-tunisia,A Night In Tunisia,21,1996-12-14,2002-10-20,S1,4.0,0.0
+norwegian-wood,Norwegian Wood,21,1998-05-07,1999-09-15,S1,4.0,0.0
+flash-mob,Flash Mob,21,2009-09-26,2011-08-16,S1,2.1,0.0
+risky-business,Risky Business,21,2024-09-07,2025-12-18,S1,3.7,0.0
+peaches-en-regalia,Peaches En Regalia,20,1995-02-11,1997-02-13,S1,6.2,0.0
+the-big-happy,The Big Happy,20,2000-10-06,2017-11-18,S1,4.2,0.0
+m80,M80,20,2008-12-12,2021-05-29,S2,2.1,0.0
+konkrete,Konkrete,20,2009-07-17,2021-05-28,S1,2.1,0.0
+in-the-end-we-have-forever,In The End We Have Forever,20,2024-06-20,2026-02-08,S1,4.6,0.0
+straight-no-chaser,"Straight, No Chaser",19,1997-07-15,2002-03-07,S1,4.9,0.0
+1999,1999,19,1998-05-07,2018-11-02,S2,2.5,0.0
+the-unspoken-rhyme,The Unspoken Rhyme,19,2000-04-15,2016-01-01,S1,3.2,0.0
+commercial-amen,Commercial Amen,19,2005-12-28,2024-09-13,S1,2.8,0.0
+better-in-doses,Better In Doses,19,2024-07-06,2025-12-19,S1,3.7,0.0
+songs-of-joy,Songs Of Joy,18,2002-03-30,2007-07-13,S1,3.9,0.0
+camera-b,Camera B,18,2003-04-05,2006-11-14,S1,4.3,0.0
+i-feel-love,I Feel Love,18,2017-07-15,2025-06-10,S2,3.8,0.0
+have-a-cigar,Have A Cigar,17,2000-06-22,2023-06-07,S1,2.4,0.0
+step-inside,Step Inside,17,2006-04-15,2021-11-19,S1,2.6,0.0
+loose-change,Loose Change,17,2009-10-09,2021-08-20,S1,2.6,0.0
+scars-of-the-brave,Scars Of The Brave,17,2025-03-14,2026-02-07,S1,3.0,0.0
+moshi-fameus-jam,Moshi-Fameus Jam,16,2007-02-15,2024-02-07,S2,4.7,0.0
+meditation,Meditation,16,2008-07-18,2021-05-30,S1,1.6,0.0
+4th-of-july,4th of July,15,2019-11-21,2023-07-06,S1,4.0,0.0
+spaga-s-last-stand,Spaga's Last Stand,15,2022-12-31,2024-04-06,S1,2.3,0.0
+another-spin,Another Spin,15,2024-07-05,2025-06-28,S2,2.8,0.0
+also-sprach-zarathustra,Also Sprach Zarathustra,15,2024-10-31,2025-12-29,S2,4.4,0.0
+ulua,Ulua,14,2002-03-29,2003-04-23,S1,3.2,0.0
+under-ur-spell,Under Ur Spell,14,2025-01-18,2025-09-06,S2,3.3,0.0
+disco-bisquick,Disco Bisquick,13,1995-12-09,1998-02-04,S1,6.5,0.0
+liquid-lazer,Liquid Lazer,12,1997-02-13,2003-08-31,S2,5.2,0.0
+three-days,Three Days,12,2001-06-09,2002-10-31,S1,2.8,0.0
+high-speed-racer,High Speed Racer,12,2008-12-11,2018-12-07,S2,2.8,0.0
+freebis-slinky,Freebis Slinky,12,2019-11-15,2023-03-11,S1,3.1,0.0
+leavemealone,Leavemealone,12,2024-07-04,2025-06-21,S1,5.4,0.0
+the-chicken,The Chicken,11,1996-02-13,1999-05-26,S1,5.5,0.0
+gamma-goblins,Gamma Goblins,11,2006-08-26,2025-11-22,S2,4.5,0.0
+lithium,Lithium,11,2006-11-21,2014-02-21,S2,1.7,0.0
+killing-in-the-name,Killing In The Name,11,2008-06-05,2013-12-31,S1,2.0,0.0
+station,Station,11,2019-11-15,2021-11-26,E1,2.5,0.0
+clocks,Clocks,11,2019-11-17,2023-03-29,S2,3.5,0.0
+boom,BOOM,11,2024-03-15,2025-12-29,S1,4.2,0.0
+dino-bany-x-b-o-t-a,Falling 303,11,2024-09-13,2025-12-29,S1,4.7,0.0
+echoes,Echoes,10,2006-11-12,2018-12-13,S2,4.1,0.0
+november-rain,November Rain,10,2006-11-24,2021-05-30,S2,4.0,0.0
+wizards-in-winter,Wizards in Winter,10,2007-12-29,2016-12-31,S1,3.8,0.0
+fish-out-of-water,Fish Out of Water,10,2009-11-19,2025-09-07,S2,3.1,0.0
+tribulations,Tribulations,10,2018-07-13,2025-02-04,S1,3.5,0.0
+rocket-science,Rocket Science,10,2019-11-14,2021-07-16,S1,4.2,0.0
+postcard,Postcard,10,2025-01-23,2025-12-28,S1,3.6,0.0
+i-know-you-rider,I Know You Rider,9,1995-11-09,2022-08-14,S1,4.7,0.0
+all-blues,All Blues,9,1998-07-23,1999-05-28,S2,4.6,0.0
+in-the-hall-of-the-mountain-king,In the Hall of the Mountain King,9,2003-08-08,2017-12-30,S1,2.7,0.0
+strawberry-girl,Strawberry Girl,9,2005-11-18,2006-05-12,S1,4.4,0.0
+i-ve-got-a-feeling,I've Got a Feeling,9,2006-02-22,2007-01-06,S1,3.1,0.0
+a-fifth-of-beethoven,A Fifth of Beethoven,9,2014-12-31,2022-04-02,S2,2.7,0.0
+stars-in-the-sky,Stars in the Sky,9,2019-11-14,2025-08-24,S1,1.7,0.0
+monster,Monster,9,2022-03-05,2024-08-28,S2,5.2,0.0
+hide-and-seek,Hide And Seek,9,2024-02-11,2025-11-01,S1,5.8,0.0
+in-the-flesh,In The Flesh,8,1995-02-11,2010-04-17,S1,3.4,0.0
+slipknot,Slipknot!,8,1995-09-16,2022-10-29,S2,4.0,0.0
+we-re-not-gonna-take-it,We're Not Gonna Take It,8,2006-12-31,2010-06-10,S1,5.0,0.0
+mastermind,Mastermind,8,2007-12-13,2008-05-24,S2,3.0,0.0
+let-s-dance,Let's Dance,8,2017-02-03,2023-05-06,S2,2.5,0.0
+the-bionic-helix,The Bionic Helix,8,2017-11-18,2022-11-11,S1,3.0,0.0
+electric-slinky,Electric Slinky,8,2019-11-15,2020-10-24,S1,2.9,0.0
+you-spin-me-round-like-a-record,You Spin Me Round (Like a Record),8,2023-03-31,2023-09-24,E1,3.9,0.0
+on-and-on,On And On,8,2025-06-12,2025-11-13,S1,5.1,0.0
+dream-journal,Dream Journal,8,2025-08-23,2025-12-31,S2,3.0,0.0
+help-on-the-way,Help On The Way,7,1995-09-16,2022-10-29,S2,3.3,0.0
+what-a-show,What A Show,7,1997-11-30,2001-09-02,S1,3.7,0.0
+drumz,Drumz,7,1998-01-28,2014-02-22,S2,6.3,0.0
+ducks-and-geese-are-free,Ducks And Geese Are Free,7,2001-04-06,2023-07-11,S1,1.0,0.0
+fever,Fever,7,2003-09-27,2004-01-04,S1,3.0,0.0
+moshi-moshi-jam,Moshi-Moshi Jam,7,2003-09-27,2004-01-03,S2,6.0,0.0
+pinball-wizard,Pinball Wizard,7,2006-05-28,2007-05-18,S1,2.7,0.0
+10-ton-foot,10 Ton Foot,7,2007-05-16,2007-08-18,S1,3.4,0.0
+quad-d,Quad D,7,2010-03-16,2025-12-29,S1,5.3,0.0
+hero,Hero,7,2019-11-14,2021-11-20,S1,4.0,0.0
+the-other-one,The Other One,6,1995-04-01,2014-08-02,S1,5.3,0.0
+unknown,unknown,6,1995-04-01,1999-09-25,S1,6.7,0.0
+in-memory-of-elizabeth-reed,In Memory Of Elizabeth Reed,6,1995-09-16,1997-09-06,S2,6.2,0.0
+dinah-moe-humm,Dinah-Moe Humm,6,1995-11-09,1996-07-06,S1,8.5,0.0
+you-enjoy-myself,You Enjoy Myself,6,1995-09-16,1996-02-13,S1,3.0,0.0
+eduardo-the-penguin,Eduardo The Penguin,6,1995-09-16,1997-05-13,S2,5.3,0.0
+latin-pussy,Latin Pussy,6,1996-03-30,1998-03-27,S1,5.2,0.0
+eine-kleine-nachtmusik,Eine Kleine Nachtmusik,6,2000-03-11,2003-08-21,S1,4.2,0.0
+boulevard,Boulevard,6,2001-04-01,2001-12-31,S3,2.5,0.0
+resolution,Resolution,6,2003-09-27,2008-06-09,S1,3.7,0.0
+super-mario-starman-jam,Super Mario Starman Jam,6,2007-02-15,2007-04-22,S2,3.7,0.0
+cars,Cars,6,2010-02-19,2020-10-31,E1,1.3,0.0
+big-wrecking-ball,Big Wrecking Ball,6,2010-03-16,2010-08-26,S2,2.5,0.0
+home,Home,6,2015-07-18,2018-11-03,S2,4.3,0.0
+rapture,Rapture,6,2019-05-25,2021-09-26,S2,3.8,0.0
+losing-it,Losing It,6,2024-07-04,2024-09-13,S1,4.0,0.0
+girl-x-times-square,girl$ x Times Square,6,2024-09-13,2025-12-29,S1,3.8,0.0
+the-great-abyss-x-lsd,The Great Abyss x D.M.T,6,2025-06-21,2025-11-01,S1,4.7,0.0
+tricycle-x-like-a-prayer-2,Tricycle x Like A Prayer,6,2025-06-21,2025-12-29,S1,6.5,0.0
+simulations,Simulations,6,2025-09-07,2025-12-30,S1,2.8,0.0
+run-like-an-antelope,Run Like An Antelope,5,1995-04-01,1995-12-02,S2,3.4,0.0
+endo,Endo,5,1996-02-08,2002-12-31,S1,4.6,0.0
+road-song,Road Song,5,1998-02-21,1998-06-04,S1,2.4,0.0
+soul-is-shaking,Soul Is Shaking,5,2000-04-15,2003-10-23,S1,5.8,0.0
+coat,Coat,5,2001-08-08,2001-11-23,E1,1.8,0.0
+peter-gunn-theme,Peter Gunn Theme,5,2002-04-04,2002-04-26,E1,2.2,0.0
+coming-home,Coming Home,5,2002-12-31,2023-12-30,S1,4.2,0.0
+whip-it,Whip It,5,2006-10-19,2006-12-04,S1,3.6,0.0
+kelly-watch-the-stars,Kelly Watch the Stars,5,2006-08-26,2007-07-15,S2,3.4,0.0
+widgets,Widgets,5,2009-11-18,2010-04-21,S1,3.0,0.0
+feel-good-inc,Feel Good Inc.,5,2010-02-20,2010-09-05,E1,2.0,0.0
+after-midnight,After Midnight,5,2015-04-15,2021-11-19,S1,3.8,0.0
+vibes,Vibes,5,2022-03-05,2024-02-02,S1,5.0,0.0
+cant-decide,Can’t Decide,5,2025-11-01,2025-12-29,S1,4.6,0.0
+punch-you-in-the-eye,Punch You In The Eye,4,1995-04-01,1996-05-18,S1,8.0,0.0
+la-grange,La Grange,4,1995-02-11,1996-05-18,S1,5.2,0.0
+she-came-in-through-the-bathroom-window,She Came In Through The Bathroom Window,4,1995-11-09,1996-02-13,S1,9.2,0.0
+maze,Maze,4,1995-02-11,1996-02-13,S2,7.2,0.0
+set-break-jam,Set Break Jam,4,1997-09-10,1997-09-11,S1,5.2,0.0
+soundcheck-jam,Soundcheck Jam,4,1997-09-27,2001-06-09,S1,1.0,0.0
+bring-it-on-home,Bring It On Home,4,2001-06-28,2001-12-04,S1,3.5,0.0
+superman-theme,Superman Theme,4,2001-12-31,2002-04-22,S2,2.5,0.0
+paint-the-day,Paint The Day,4,2003-04-04,2003-04-17,S1,3.2,0.0
+waltz-of-the-flowers,Waltz of the Flowers,4,2003-08-11,2003-09-30,S2,4.0,0.0
+bach-s-inventio-13,Bach's Inventio 13,4,2006-06-16,2006-11-24,S1,5.5,0.0
+moshi-drum-jam,Moshi-Drum Jam,4,2006-11-01,2006-11-21,S2,3.5,0.0
+paul-revere,Paul Revere,4,2006-12-31,2007-07-14,S1,1.8,0.0
+glastonbury,Glastonbury,4,2007-02-15,2007-12-13,S1,2.2,0.0
+solstice,Solstice,4,2006-12-28,2017-07-14,S2,2.0,0.0
+i-wanna-be-sedated,I Wanna Be Sedated,4,2007-08-15,2007-10-24,E1,1.5,0.0
+sgt-pepper-s-lonely-hearts-club-band,Sgt. Pepper's Lonely Hearts Club Band,4,2007-11-04,2008-03-08,S1,1.5,0.0
+astronomy-domine,Astronomy Domine,4,2007-12-29,2009-04-19,S1,2.2,0.0
+alter-ego,Alter Ego,4,2007-12-20,2008-01-16,S1,3.8,0.0
+vacation,Vacation,4,2008-03-19,2010-03-16,S1,4.8,0.0
+the-moon,The Moon,4,2010-09-01,2019-07-20,S2,4.2,0.0
+shakedown-street,Shakedown Street,4,2014-07-31,2022-10-01,S1,4.8,0.0
+nowhere-jam,Nowhere Jam,4,2017-11-16,2018-07-11,S1,1.0,0.0
+that-sample-has-a-name,That Sample Has a Name,4,2019-04-26,2019-10-05,S2,3.0,0.0
+bombs-x-lockdown,Bombs x Lockdown,4,2025-06-12,2025-07-13,S1,2.5,0.0
+tantalize,Tantalize,4,2025-06-06,2025-09-06,S1,2.8,0.0
+la-noche,La Noche,4,2025-11-01,2025-11-13,S2,2.2,0.0
+mike-s-song,Mike's Song,3,1995-04-01,1996-02-13,S1,10.0,0.0
+the-end,The End,3,1995-11-09,1995-12-10,S1,12.7,0.0
+little-wing,Little Wing,3,1995-11-09,1998-06-25,S1,5.0,0.0
+gumbo,Gumbo,3,1995-09-16,1995-12-09,S1,4.0,0.0
+morning-dew,Morning Dew,3,1995-11-09,1997-10-31,S2,5.3,0.0
+the-woodser,The Woodser,3,1995-12-01,1996-07-06,S1,3.3,0.0
+harry-hood,Harry Hood,3,1996-05-18,1996-05-25,S1,8.3,0.0
+law-and-order-theme,Law And Order Theme,3,1998-03-17,2002-12-28,S1,1.0,0.0
+don-t-stop-till-you-get-enough,Don't Stop Till You Get Enough,3,1998-08-01,2014-09-25,S1,3.7,0.0
+riddles-are-abound-tonight,Riddles Are Abound Tonight,3,2000-06-22,2000-07-12,E1,2.7,0.0
+tomorrow-never-knows,Tomorrow Never Knows,3,2000-06-22,2008-04-16,S1,3.0,0.0
+cherub-rock,Cherub Rock,3,2000-10-31,2000-11-24,S2,3.0,0.0
+mariel-bop-bop,Mariel Bop Bop,3,2003-04-05,2003-04-16,S2,3.7,0.0
+dazed-and-confused,Dazed and Confused,3,2003-09-27,2003-09-30,S2,7.0,0.0
+ohayo-gozaimasu,Ohayo Gozaimasu,3,2003-12-31,2004-01-15,S2,9.0,0.0
+rock-and-roll-fantasy,Rock and Roll Fantasy,3,2006-04-29,2006-11-16,S2,3.0,0.0
+i-remember-ray,I Remember Ray,3,2006-05-03,2006-05-27,S1,3.7,0.0
+o-fortuna,O Fortuna,3,2006-10-31,2007-05-27,S2,3.3,0.0
+denmark-massive,Denmark Massive,3,2008-04-17,2022-04-02,S2,4.0,0.0
+killing-eleven,Killing Eleven,3,2008-07-19,2008-12-28,S3,2.3,0.0
+dwaddle,Dwaddle,3,2009-09-17,2009-10-30,S1,2.0,0.0
+last-day-of-everything,Last Day Of Everything,3,2010-10-25,2010-10-30,S1,7.3,0.0
+let-s-go-crazy,Let's Go Crazy,3,2014-02-21,2018-05-25,S1,1.0,0.0
+electric-avenue,Electric Avenue,3,2014-02-22,2024-02-05,S2,2.0,0.0
+viola-lee-blues,Viola Lee Blues,3,2014-06-13,2016-07-16,S1,4.7,0.0
+scarlet-begonias,Scarlet Begonias,3,2015-05-14,2016-03-05,S1,1.7,0.0
+knights-of-cydonia,Knights of Cydonia,3,2015-07-18,2018-11-23,S2,3.7,0.0
+give-it-to-me-baby,Give it To Me Baby,3,2015-10-31,2023-02-04,S2,5.3,0.0
+exodus,Exodus,3,2017-02-04,2018-12-13,S1,4.0,0.0
+rio,Rio,3,2017-12-30,2018-12-15,S1,4.3,0.0
+friend-like-steve,Friend Like Steve,3,2022-03-05,2022-04-01,E1,3.7,0.0
+lake-shore-drive-x-meditation-to-the-groove,Lake Shore Drive x Meditation To The Groove,3,2024-07-04,2025-12-29,S1,7.7,0.0
+konkrete-x-floodlights,Konkrete x Floodlights,3,2024-09-13,2024-11-21,S1,5.0,0.0
+tourists-rocket-ship-x-on-time,Tourists (Rocket Ship) x On Time,3,2024-09-13,2025-12-29,S1,5.0,0.0
+dino-baby-x-b-o-t-a,Dino Baby x B.O.T.A.,3,2025-06-12,2025-07-03,S1,4.7,0.0
+ac-dc-bag,AC/DC Bag,2,1995-04-01,1995-09-16,S1,9.0,0.0
+mean-mr-mustard,Mean Mr. Mustard,2,1995-11-09,1995-12-02,S1,9.5,0.0
+polythene-pam,Polythene Pam,2,1995-11-09,1995-12-02,S1,10.5,0.0
+carry-that-weight,Carry That Weight,2,1995-11-09,1995-12-02,S1,13.0,0.0
+her-majesty,Her Majesty,2,1995-11-09,1995-12-02,S1,15.0,0.0
+onery-funk,Onery Funk,2,1995-10-23,1998-01-30,S1,5.0,0.0
+spanish-castle-magic,Spanish Castle Magic,2,1995-02-11,1995-12-09,S1,3.0,0.0
+possum,Possum,2,1995-02-11,1995-12-02,S1,2.0,0.0
+alumni-blues,Alumni Blues,2,1996-05-18,1996-05-25,S1,2.0,0.0
+red-clay,Red Clay,2,1996-03-02,1996-09-06,S1,5.0,0.0
+epistrophy,Epistrophy,2,1996-12-06,1998-03-21,S1,3.0,0.0
+1-30-97-jam,1/30/97 Jam,2,1997-01-30,1998-01-30,S1,6.0,0.0
+ida-fith,Ida Fith,2,1998-08-28,1998-09-15,S1,6.0,0.0
+worcester-jam,Worcester Jam,2,1999-01-22,1999-02-20,S1,4.0,0.0
+12345-678910-11-12,12345 678910 11 12,2,1999-04-10,1999-07-03,S2,3.5,0.0
+little-boy-on-the-moon,Little Boy On The Moon,2,2000-03-11,2000-06-27,S2,6.0,0.0
+loch-ness-monster,Loch Ness Monster,2,2000-06-27,2000-07-12,S2,5.0,0.0
+beethoven-s-ninth-symphony-second-movement,"Beethoven's Ninth Symphony, Second Movement",2,2000-12-28,2000-12-28,S1,4.5,0.0
+purple-haze,Purple Haze,2,2001-09-23,2001-09-23,S2,7.0,0.0
+linus-and-lucy,Linus And Lucy,2,2001-10-31,2001-11-01,S1,2.0,0.0
+one,One,2,2002-04-06,2002-04-08,E1,4.0,0.0
+hibbage,Hibbage,2,2002-04-20,2002-04-22,S1,4.5,0.0
+whiskey-river,Whiskey River,2,2002-07-27,2002-07-30,S1,7.0,0.0
+marvelous,Marvelous,2,2002-07-25,2002-10-25,E1,2.5,0.0
+stir-it-up,Stir It Up,2,2003-08-31,2008-04-05,S2,6.5,0.0
+in-the-meantime,In the Meantime,2,2003-09-27,2003-09-30,S1,4.5,0.0
+gimme-three-steps,Gimme Three Steps,2,2003-10-22,2003-10-29,S1,5.0,0.0
+new-deal-biscuits-jam,New Deal/Biscuits Jam,2,2003-12-31,2004-01-03,S2,1.0,0.0
+knight-rider-theme,Knight Rider Theme,2,2004-09-05,2010-07-17,S2,3.5,0.0
+in-the-kitchen,In the Kitchen,2,2006-05-05,2006-05-05,S2,2.0,0.0
+you-can-t-always-get-what-you-want,You Can't Always Get What You Want,2,2006-10-31,2006-11-02,S2,5.5,0.0
+sweat-box,Sweat Box,2,2007-02-15,2010-03-16,E1,1.5,0.0
+kashmir,Kashmir,2,2007-03-24,2007-04-22,S1,3.5,0.0
+joy-to-the-world,Joy to the World,2,2006-12-29,2006-12-29,S1,4.5,0.0
+take-a-bow,Take a Bow,2,2007-08-18,2007-08-30,S1,3.5,0.0
+termites,Termites,2,2007-08-15,2007-08-17,E1,3.0,0.0
+a-night-on-bald-mountain,A Night on Bald Mountain,2,2007-10-31,2007-10-31,S1,3.0,0.0
+where-the-streets-have-no-name,Where the Streets Have No Name,2,2007-12-14,2007-12-28,S1,3.5,0.0
+d-yer-mak-er,D'yer Mak'er,2,2007-12-15,2007-12-20,S1,4.0,0.0
+sgt-pepper-s-lonely-hearts-club-band-reprise,Sgt. Pepper's Lonely Hearts Club Band (Reprise),2,2007-11-04,2008-03-08,E1,8.0,0.0
+goodbye-stranger,Goodbye Stranger,2,2008-06-06,2008-06-11,S2,5.0,0.0
+standing-on-the-verge-of-getting-it-on,Standing On The Verge Of Getting It On,2,2008-12-27,2009-01-29,S2,1.5,0.0
+no-sleep-till-brooklyn,No Sleep Till Brooklyn,2,2009-10-10,2016-08-20,E1,1.5,0.0
+countdown-medley,Countdown Medley,2,2009-12-31,2012-12-31,S2,5.0,0.0
+disco-inferno,Disco Inferno,2,2013-04-27,2013-09-28,S2,4.0,0.0
+west-l-a-fadeaway,West L.A. Fadeaway,2,2014-07-31,2014-08-02,S2,3.5,0.0
+i-don-t-want-nobody-to-give-me-nothing,I Don't Want Nobody to Give Me Nothing,2,2014-07-31,2014-08-02,S2,3.0,0.0
+eyes-of-the-world,Eyes of The World,2,2014-07-31,2014-08-02,S2,6.0,0.0
+space,Space,2,2014-07-31,2015-04-17,S2,5.5,0.0
+one-more-saturday-night,One More Saturday Night,2,2015-02-21,2015-04-18,E1,1.0,0.0
+crazy-fingers,Crazy Fingers,2,2015-04-17,2015-04-25,S2,3.5,0.0
+franklin-s-tower,Franklin's Tower,2,2015-04-17,2019-02-02,S2,6.0,0.0
+get-down-on-it,Get Down on It,2,2015-10-31,2023-02-04,S2,1.5,0.0
+funky-town,Funky Town,2,2015-10-31,2016-03-05,S2,5.0,0.0
+suspicious-minds,Suspicious Minds,2,2016-02-06,2018-11-01,S1,5.0,0.0
+controversy,Controversy,2,2017-07-14,2017-12-03,S2,5.0,0.0
+korobeiniki,Korobeiniki,2,2017-12-31,2018-05-27,S2,3.5,0.0
+super-mario-bros-underworld-theme,Super Mario Bros Underworld Theme,2,2017-12-31,2017-12-31,S3,3.0,0.0
+funk-ditty,Funk Ditty,2,2021-08-21,2021-09-19,S2,1.0,0.0
+eye-of-the-tiger,Eye Of The Tiger,2,2023-12-30,2024-04-13,S1,1.0,0.0
+sandstorm,Sandstorm,2,2024-07-04,2024-07-15,S2,5.0,0.0
+escape,Escape,2,2024-07-04,2024-07-20,S1,7.5,0.0
+better-off-alone,Better Off Alone,2,2025-11-01,2025-12-31,S1,5.5,0.0
+hymn,Hymn,2,2025-12-31,2026-02-07,S3,4.0,0.0
+price-of-sand,Price Of Sand,1,1995-10-23,1995-10-23,S1,5.0,0.0
+my-friend-my-friend,"My Friend, My Friend",1,1995-02-11,1995-02-11,S1,7.0,0.0
+you-never-give-me-your-money,You Never Give Me Your Money,1,1995-12-02,1995-12-02,S1,8.0,0.0
+sun-king,Sun King,1,1995-12-02,1995-12-02,S1,9.0,0.0
+golden-slumbers,Golden Slumbers,1,1995-12-02,1995-12-02,S1,13.0,0.0
+my-michelle,My Michelle,1,1996-05-25,1996-05-25,S1,9.0,0.0
+divided-sky,Divided Sky,1,1996-05-25,1996-05-25,S2,3.0,0.0
+radiator-jam,Radiator Jam,1,1995-12-31,1995-12-31,S1,4.0,0.0
+whipping-post,Whipping Post,1,1997-03-29,1997-03-29,S1,11.0,0.0
+biscuits-fathead-jam,Biscuits/Fathead Jam,1,1997-07-04,1997-07-04,S1,6.0,0.0
+fathead-s-set,Fathead's Set,1,1997-07-04,1997-07-04,S1,7.0,0.0
+rock-and-roll-part-one,Rock And Roll Part One,1,1997-09-12,1997-09-12,S1,1.0,0.0
+like-a-hurricane,Like A Hurricane,1,1997-11-20,1997-11-20,S1,8.0,0.0
+roadhouse-blues,Roadhouse Blues,1,1997-12-08,1997-12-08,S2,4.0,0.0
+dear-mr-fantasy,Dear Mr. Fantasy,1,1998-04-02,1998-04-02,S2,14.0,0.0
+can-t-you-see,Can't You See,1,1998-04-02,1998-04-02,S2,15.0,0.0
+leora,Leora,1,1998-05-01,1998-05-01,S1,6.0,0.0
+vocal-jam,Vocal Jam,1,1998-10-23,1998-10-23,E1,1.0,0.0
+poncho-the-cat,Poncho The Cat,1,1998-10-28,1998-10-28,S1,10.0,0.0
+misty-mountain-hop,Misty Mountain Hop,1,1998-09-25,1998-09-25,S1,1.0,0.0
+bad-love,Bad Love,1,1999-03-06,1999-03-06,S1,5.0,0.0
+young-lust-jam,Young Lust Jam,1,1999-04-23,1999-04-23,S2,1.0,0.0
+beat-it,Beat It,1,1999-07-03,1999-07-03,S2,5.0,0.0
+pomp-and-circumstance,Pomp And Circumstance,1,1999-12-31,1999-12-31,S2,3.0,0.0
+the-wedding-march,The Wedding March,1,1999-12-31,1999-12-31,S2,4.0,0.0
+hail-to-the-chief,Hail To The Chief,1,1999-12-31,1999-12-31,S2,5.0,0.0
+akira-jam,Akira Jam,1,1999-12-31,1999-12-31,S3,1.0,0.0
+schubert-s-opus-90,Schubert's Opus 90,1,2000-06-22,2000-06-22,S1,1.0,0.0
+home-2,Home,1,2000-12-28,2000-12-28,S2,4.0,0.0
+smell-the-funk,Smell The Funk,1,2001-05-05,2001-05-05,S1,2.0,0.0
+koyaanisqatsi-jam,Koyaanisqatsi Jam,1,2001-11-02,2001-11-02,S1,2.0,0.0
+funeral-march-of-a-marionette,Funeral March Of A Marionette,1,2001-10-31,2001-10-31,S1,1.0,0.0
+alice-in-wonderland-jam,Alice In Wonderland Jam,1,2001-10-31,2001-10-31,S2,1.0,0.0
+run-lola-run-jam,Run Lola Run Jam,1,2001-11-03,2001-11-03,S1,1.0,0.0
+float-like-a-butterfly,Float Like A Butterfly,1,2001-12-02,2001-12-02,S2,3.0,0.0
+star-wars-theme,Star Wars Theme,1,2001-12-31,2001-12-31,S2,2.0,0.0
+indiana-jones-theme,Indiana Jones Theme,1,2001-12-31,2001-12-31,S2,3.0,0.0
+one-way-flight,One Way Flight,1,2002-03-30,2002-03-30,S2,1.0,0.0
+manic-depression,Manic Depression,1,2002-10-20,2002-10-20,S2,4.0,0.0
+don-t-cry-on-your-birthday,Don't Cry On Your Birthday,1,2002-10-17,2002-10-17,S2,8.0,0.0
+whole-lotta-love,Whole Lotta Love,1,2003-08-11,2003-08-11,S1,7.0,0.0
+peter-s-theme,Peter's Theme,1,2003-08-21,2003-08-21,S2,4.0,0.0
+where-do-the-children-play,Where Do The Children Play?,1,2003-09-29,2003-09-29,S1,7.0,0.0
+macina-verde,Macina Verde,1,2003-11-26,2003-11-26,S1,5.0,0.0
+one-day-you-ll-know,One Day You'll Know,1,2003-11-26,2003-11-26,S1,6.0,0.0
+little-red-rooster,Little Red Rooster,1,2003-12-29,2003-12-29,S1,1.0,0.0
+biscuits-new-deal-jam,Biscuits/New Deal Jam,1,2003-12-31,2003-12-31,S1,5.0,0.0
+blame-canada,Blame Canada,1,2003-12-31,2003-12-31,S2,7.0,0.0
+kyle-s-mom-s-a-bitch,Kyle's Mom's A Bitch,1,2003-12-31,2003-12-31,S2,8.0,0.0
+it-s-easy-mmmkay,It's Easy Mmmkay?,1,2003-12-31,2003-12-31,S2,9.0,0.0
+chocolate-salty-balls-p-s-i-love-you,Chocolate Salty Balls (P.S. I Love You),1,2003-12-31,2003-12-31,S2,10.0,0.0
+fuck-the-robots-1,Fuck The Robots 1,1,2003-12-31,2003-12-31,S2,11.0,0.0
+la-di-da-di,La Di Da Di,1,2004-03-16,2004-03-16,S1,2.0,0.0
+jam-on-the-river-song,Jam on the River Song,1,2004-05-29,2004-05-29,S1,5.0,0.0
+no-pain,No Pain,1,2004-10-01,2004-10-01,S1,5.0,0.0
+fletch-theme,Fletch Theme,1,2004-10-01,2004-10-01,S1,7.0,0.0
+salute-to-sammy,Salute To Sammy,1,2005-08-27,2005-08-27,S2,7.0,0.0
+two-cigarettes,Two Cigarettes,1,2005-11-18,2005-11-18,S1,5.0,0.0
+honky-tonk-history,Honky-Tonk History,1,2005-04-26,2005-04-26,S1,2.0,0.0
+matisyahu-jam,Matisyahu Jam,1,2007-03-10,2007-03-10,S1,7.0,0.0
+seven-nation-army,Seven Nation Army,1,2007-07-13,2007-07-13,S2,1.0,0.0
+toccata-and-fugue-in-d-minor,Toccata and Fugue in D Minor,1,2007-10-31,2007-10-31,E1,1.0,0.0
+wanna-be-startin-somethin,Wanna Be Startin' Somethin',1,2007-12-31,2007-12-31,S1,6.0,0.0
+costume-contest-jam,Costume Contest Jam,1,2008-02-29,2008-02-29,S2,5.0,0.0
+baby-you-re-a-rich-man,Baby You're a Rich Man,1,2008-03-18,2008-03-18,E1,1.0,0.0
+another-brick-in-the-wall,Another Brick in the Wall,1,2008-03-18,2008-03-18,E1,2.0,0.0
+chilled-briefly,Chilled Briefly,1,2008-07-19,2008-07-19,S2,2.0,0.0
+phantom-pt-ii,Phantom Pt. II,1,2008-07-19,2008-07-19,S3,7.0,0.0
+flip-flop,Flip-Flop,1,2008-10-25,2008-10-25,S2,3.0,0.0
+rock-your-dance,Rock Your Dance,1,2008-12-27,2008-12-27,S2,3.0,0.0
+low,Low,1,2009-02-14,2009-02-14,E1,1.0,0.0
+white-chicks-gang-signs,White Chicks & Gang Signs,1,2009-05-30,2009-05-30,E1,1.0,0.0
+harder-better-faster-stronger,Harder Better Faster Stronger,1,2009-06-26,2009-06-26,S1,7.0,0.0
+i-am-one,I am One,1,2009-10-31,2009-10-31,S2,10.0,0.0
+camouflage-soul,Camouflage Soul,1,2010-03-16,2010-03-16,S1,6.0,0.0
+rain-song,Rain Song,1,2010-03-16,2010-03-16,S2,10.0,0.0
+save-your-soul,Save Your Soul,1,2010-03-16,2010-03-16,S2,11.0,0.0
+one-of-these-days,One Of These Days,1,2010-10-31,2010-10-31,S1,1.0,0.0
+waltz-in-black,Waltz In Black,1,2010-10-28,2010-10-28,S2,3.0,0.0
+theme-from-shaft,Theme from Shaft,1,2013-09-27,2013-09-27,S2,3.0,0.0
+and-we-bid-you-goodnight,And We Bid You Goodnight,1,2014-08-02,2014-08-02,E1,1.0,0.0
+jack-straw,Jack Straw,1,2015-04-17,2015-04-17,S2,1.0,0.0
+new-speedway-boogie,New Speedway Boogie,1,2015-04-17,2015-04-17,S2,3.0,0.0
+terrapin-station,Terrapin Station,1,2015-04-17,2015-04-17,S2,4.0,0.0
+wharf-rat,Wharf Rat,1,2015-04-17,2015-04-17,S2,6.0,0.0
+casey-jones,Casey Jones,1,2015-04-17,2015-04-17,S3,5.0,0.0
+going-down-the-road-feeling-bad,Going Down the Road Feeling Bad,1,2015-04-17,2015-04-17,E1,1.0,0.0
+she-s-gone,She's Gone,1,2015-07-17,2015-07-17,S1,4.0,0.0
+us-and-them,Us and Them,1,2015-07-17,2015-07-17,S2,6.0,0.0
+devil-inside,Devil Inside,1,2014-12-06,2014-12-06,S2,7.0,0.0
+soul-man,Soul Man,1,2016-01-02,2016-01-02,S1,6.0,0.0
+everybody-needs-somebody-to-love,Everybody Needs Somebody To Love,1,2016-01-02,2016-01-02,S1,7.0,0.0
+you-should-be-dancing,You Should Be Dancing,1,2015-10-31,2015-10-31,S2,5.0,0.0
+born-to-be-alive,Born to be Alive,1,2015-10-31,2015-10-31,S2,6.0,0.0
+tron-jam,Tron Jam,1,2015-12-31,2015-12-31,S3,1.0,0.0
+touch-me,Touch Me,1,2016-02-06,2016-02-06,S1,6.0,0.0
+she-s-a-bad-mama-jama,She's A Bad Mama Jama,1,2016-03-25,2016-03-25,S2,4.0,0.0
+down-under,Down Under,1,2016-07-16,2016-07-16,S2,5.0,0.0
+white-lines,White Lines,1,2016-07-16,2016-07-16,S2,7.0,0.0
+tubular-bells,Tubular Bells,1,2017-10-28,2017-10-28,S1,2.0,0.0
+stranger-things-theme,Stranger Things Theme,1,2017-10-27,2017-10-27,S2,3.0,0.0
+same-ol-g,Same Ol' G,1,2017-11-18,2017-11-18,S2,4.0,0.0
+super-mario-bros-overworld-theme,Super Mario Bros Overworld Theme,1,2017-12-31,2017-12-31,S2,1.0,0.0
+watching-the-wheels,Watching the Wheels,1,2018-12-13,2018-12-13,S1,4.0,0.0
+jazz-improv-jam,Jazz Improv Jam,1,2021-04-03,2021-04-03,S2,5.0,0.0
+dancing-in-the-street,Dancing in the Street,1,2021-05-28,2021-05-28,S2,1.0,0.0
+gonna-fly-now-theme-from-rocky,Gonna Fly Now (Theme From Rocky),1,2021-07-09,2021-07-09,S1,1.0,0.0
+thank-you-for-being-a-friend,Thank You For Being A Friend,1,2021-12-31,2021-12-31,S3,1.0,0.0
+feel-like-a-stranger,Feel Like A Stranger,1,2022-04-01,2022-04-01,E1,2.0,0.0
+brain-damage,Brain Damage,1,2022-06-12,2022-06-12,E1,1.0,0.0
+eclipse,Eclipse,1,2022-06-12,2022-06-12,E1,2.0,0.0
+sirius,Sirius,1,2022-12-31,2022-12-31,S1,1.0,0.0
+5th-element-jam,The Fifth Element Jam,1,2023-03-11,2023-03-11,S2,1.0,0.0
+language,Language,1,2024-07-04,2024-07-04,S1,1.0,0.0
+firework,Firework,1,2024-07-04,2024-07-04,S1,12.0,0.0
+the-blue-danube,The Blue Danube,1,2024-10-31,2024-10-31,S2,4.0,0.0
+2001-a-space-odyssey-jam,2001: A Space Odyssey Jam,1,2024-10-31,2024-10-31,S2,5.0,0.0
+game-of-thrones-theme-2,Game Of Thrones Theme,1,2024-12-31,2024-12-31,S2,5.0,0.0
+philly-fire-and-ice-2,Philly Fire And Ice,1,2024-12-31,2024-12-31,S2,6.0,0.0
+pi-jam,Pi Jam,1,2025-03-14,2025-03-14,S2,4.0,0.0
+camp-home-again-jam,Camp Home Again Jam,1,2025-06-19,2025-06-19,S1,1.0,0.0
+mission-impossible-theme,Mission Impossible Theme,1,2025-02-07,2025-02-07,S1,3.0,0.0
+damager,Damager,1,2025-02-07,2025-02-07,S1,5.0,0.0
+smalltown,Smalltown,1,2025-11-01,2025-11-01,S1,5.0,0.0
+dancing-queen,Dancing Queen,1,2025-11-01,2025-11-01,S1,9.0,0.0
+falling-303-x-on-time,Falling 303 x On Time,1,2025-11-20,2025-11-20,S2,3.0,0.0
+show-me-love,Show Me Love,1,2025-12-31,2025-12-31,S2,4.0,0.0
+the-bells,The Bells,1,2025-12-31,2025-12-31,S3,4.0,0.0
+cheers-theme,Cheers Theme,1,2025-12-30,2025-12-30,S2,3.0,0.0
